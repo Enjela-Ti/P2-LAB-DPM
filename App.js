@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#f0f0f0', // Latar belakang abu-abu terang
     flexDirection: 'row', // Menempatkan kotak secara horizontal
     justifyContent: 'space-between', // Jarak merata antara kotak
-    alignItems: 'center', // Menyusun konten secara vertikal di tengah
+    alignItems: 'center', 
     paddingHorizontal: 20,
   },
   // Teks di tengah
@@ -38,10 +38,10 @@ const styles = StyleSheet.create({
     height: 100,
   },
   box1: {
-    backgroundColor: 'red', // Warna kotak 1 (Bebas memilih warna)
+    backgroundColor: 'red', 
   },
   box2: {
-    backgroundColor: 'green', // Warna kotak 2 (Bebas memilih warna)
+    backgroundColor: 'green',
   },
 });
 
